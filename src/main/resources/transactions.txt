@@ -1,0 +1,6 @@
+1|Monitor|SELL|799.05
+2|Power Supply|BUY|419.99
+3|Placa Video|BUY|1999.99
+4|Placa de baza|BUY|885.00
+5|Carcasa|SELL|325.99
+6|Monitor|SELL|699.05
